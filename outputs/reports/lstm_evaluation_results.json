@@ -1,0 +1,29 @@
+{
+  "test_loss": 28.953676223754883,
+  "test_mae": 3.038100242614746,
+  "test_mse": 27.666985979582815,
+  "test_rmse": 5.259941632716357,
+  "test_mae_custom": 3.0381004015604653,
+  "test_r_squared": 0.33768448233033865,
+  "category_analysis": {
+    "low_mae": 1.8693982958373594,
+    "low_rmse": 2.146443029664578,
+    "low_count": 1419,
+    "medium_mae": 4.1628433289351285,
+    "medium_rmse": 6.970629234098544,
+    "medium_count": 1296
+  },
+  "accuracy_analysis": {
+    "within_5_points": 0.8872980910425844,
+    "within_10_points": 0.9320851688693098,
+    "within_20_points": 0.9812775330396476,
+    "large_errors_50_plus": 0.0
+  },
+  "statistical_analysis": {
+    "error_mean": 0.8323171121258393,
+    "error_std": 5.193672516095457,
+    "error_median": 1.8607006072998047,
+    "error_95th_percentile": 14.574347877502428,
+    "correlation": 0.6135528821930197
+  }
+}
