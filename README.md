@@ -1,6 +1,7 @@
 # Kullanıcı Giriş Güvenlik Risk Değerlendirme Sistemi
 
 Bu proje, kullanıcıların sisteme giriş yapmaya çalıştığı anda elde edilen verilerle anlık risk değerlendirmesi yapan bir yapay zeka modeli geliştirmeyi amaçlamaktadır.
+<img width="1705" alt="screenshot" src="https://github.com/user-attachments/assets/fbeafdb7-0b2c-488f-9db6-c596faef40d6" />
 
 ## Proje Yapısı
 
